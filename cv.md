@@ -7,7 +7,7 @@
 ## About me
 **I am open to new opportunities and knowledge. Friendly, open to communication. I have experience leading a team.**
 ## Skills
-* Not yet
+* N
 ## Code Example
 ```
 <script>
