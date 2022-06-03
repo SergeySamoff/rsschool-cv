@@ -21,5 +21,5 @@
 * University: East Ukrainian National University, Organic chemical engineer
 ## Languages
 * English A1
-* Ukrainian native
+* Ukrainian native 
 * Russian native
