@@ -18,7 +18,7 @@ html {
 }
 
 .container {
-    max-width: 1440px;
+    max-width: 1400px;
 }
 
 .main-container {
@@ -37,6 +37,7 @@ html {
     display: flex;
     align-items: center;
     list-style: none;
+    background-color: rgb(91, 156, 122);
 }
 
 .nav-link {
@@ -44,7 +45,7 @@ html {
     line-height: 50px;
     transition: .3s;
     text-decoration: none;
-    color: #556e58;
+    color: #2d342e;
 }
 
 .section-item a {
@@ -61,4 +62,23 @@ html {
     .section {
         width: 100%;
     }
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(91, 156, 122);
+}
+
+.my-photo {
+    width: 250px;
+    height: 300px;
+}
+
+.name {
+    text-align: right;
+}
+
+.ico {
+    width: 100px;
+    height: 100px;
 }
