@@ -15,7 +15,7 @@
 </script>
 
 ```
-## Expirence
+## Experience
 * Not yet
 ## Education
 * University: East Ukrainian National University, Organic chemical engineer
