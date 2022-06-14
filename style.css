@@ -18,12 +18,15 @@ html {
 }
 
 .container {
-    max-width: 1400px;
+    margin: 0 auto;
+    max-width: 1100px;
 }
 
 .main-container {
     display: flex;
     flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
 }
 
 .section {
@@ -37,7 +40,9 @@ html {
     display: flex;
     align-items: center;
     list-style: none;
-    background-color: rgb(91, 156, 122);
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #829985;
 }
 
 .nav-link {
@@ -64,9 +69,9 @@ html {
     }
 }
 
-.footer {
-    text-align: center;
-    background-color: rgb(91, 156, 122);
+.footer-container {
+    display: flex;
+    background-color: #829985;
 }
 
 .my-photo {
@@ -74,11 +79,22 @@ html {
     height: 300px;
 }
 
-.name {
-    text-align: right;
+.mygit-hub {
+    width: 75px;
+    height: 75px;
+    display: flex;
+    text align: left;
+    list-style: none;
+    justify-content: left;
+    flex-wrap: wrap;
 }
 
-.ico {
+.rsscholl-img {
     width: 100px;
     height: 100px;
+    display: flex;
+    text align: right;
+    list-style: none;
+    justify-content: right;
+    flex-wrap: wrap;
 }
