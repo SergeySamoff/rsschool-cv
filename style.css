@@ -83,7 +83,7 @@ html {
     width: 75px;
     height: 75px;
     display: flex;
-    text align: left;
+    align-items: left;
     list-style: none;
     justify-content: left;
     flex-wrap: wrap;
@@ -93,7 +93,7 @@ html {
     width: 100px;
     height: 100px;
     display: flex;
-    text align: right;
+    align-items: right;
     list-style: none;
     justify-content: right;
     flex-wrap: wrap;
