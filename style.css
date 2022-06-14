@@ -84,11 +84,16 @@ html {
 }
 
 .mygit-hub {
-    width: 75px;
-    height: 75px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    text-decoration-color: #622727;
 }
 
 .rsscholl-img {
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
 }
