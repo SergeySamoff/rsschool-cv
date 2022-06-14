@@ -88,7 +88,6 @@ html {
     height: 30px;
     display: flex;
     flex-direction: row;
-    text-decoration-color: #622727;
 }
 
 .rsscholl-img {
@@ -96,4 +95,9 @@ html {
     height: 60px;
     display: flex;
     flex-direction: row;
+}
+
+a {
+    color: #622727;
+    text-decoration: none;
 }
