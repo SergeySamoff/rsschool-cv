@@ -72,6 +72,10 @@ html {
 .footer-container {
     display: flex;
     background-color: #829985;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+
 }
 
 .my-photo {
